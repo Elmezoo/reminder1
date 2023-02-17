@@ -38,7 +38,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   sqflite: ^2.2.4+1
   intl: ^0.18.0
-  conditional_builder_null_safety: ^0.0.6
+  #conditional_builder_null_safety: ^0.0.6
   bloc: ^8.1.0
   flutter_bloc: ^8.1.0
 
